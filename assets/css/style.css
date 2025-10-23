@@ -1,5 +1,11 @@
+/* body{
+    background-color: lightgrey;
+    background-image: url("../images/background-image.jpg");
+} */
+
 body{
-    background-image:url(../images/snowytrees.jpg);
+    background-color: lightgrey;
+    background-image: url("/assets/images/background-img.jpg");
 }
 
 h2{
